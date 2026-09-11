@@ -82,6 +82,10 @@ In this section, I list my data analytics projects, detailing the goals, technol
 ### Data Science
 
 #### E-Commerce Sales Analytics Dashboard
+[View Project Notebook](./E-Commerce%20Sales%20Analytics%20Dashboard.ipynb)
+
+<img width="1680" height="1011" alt="image" src="https://github.com/user-attachments/assets/7e7679df-49e1-419a-9abd-cee63a57fa4f" />
+
 
 **Description:** Proyek ini diawali dengan persiapan lingkungan kerja di Google Colab dan ekstraksi berkas ZIP berisi sembilan tabel relasional dari dataset *e-commerce* Olist. Pada tahap pemrosesan awal, data diperiksa secara menyeluruh untuk mengidentifikasi keberadaan nilai yang hilang (*missing values*), baris duplikat, serta ketidaksesuaian tipe data. Pembersihan data dilakukan dengan menyesuaikan tipe data tanggal (*datetime*), menangani entri kosong, dan memetakan nama kategori produk dari bahasa Portugis ke bahasa Inggris agar lebih mudah dianalisis.
 
