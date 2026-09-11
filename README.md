@@ -15,6 +15,7 @@ I am driven to leverage my technical skills in **Python and SQL** to transform r
 * [Education](#education)
 * [Certificates](#certificates)
 * [Contact](#contact)
+* [Experience](#experience)
 
 ---
 
