@@ -1,4 +1,4 @@
-# Ilsan Hidayatuloh - Data Analyst Portfolio
+# Ilsan Hidayatuloh - Data Portfolio
 
 ## About Me
 
