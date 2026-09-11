@@ -89,7 +89,7 @@ In this section, I list my data analytics projects, detailing the goals, technol
 
 **Description:** Proyek ini diawali dengan persiapan lingkungan kerja di Google Colab dan ekstraksi berkas ZIP berisi sembilan tabel relasional dari dataset *e-commerce* Olist. Pada tahap pemrosesan awal, data diperiksa secara menyeluruh untuk mengidentifikasi keberadaan nilai yang hilang (*missing values*), baris duplikat, serta ketidaksesuaian tipe data. Pembersihan data dilakukan dengan menyesuaikan tipe data tanggal (*datetime*), menangani entri kosong, dan memetakan nama kategori produk dari bahasa Portugis ke bahasa Inggris agar lebih mudah dianalisis.
 
-Setelah seluruh data bersih, sembilan tabel terpisah—seperti data pesanan, pelanggan, produk, pembayaran, hingga ulasan—digabungkan (*merge*) menjadi satu *dataframe* utama. Dataset terpadu ini kemudian dianalisis melalui tahapan *Exploratory Data Analysis* (EDA) untuk menggali berbagai pola bisnis, mulai dari tren volume dan nilai penjualan dari waktu ke waktu, preferensi metode pembayaran serta opsi cicilan yang sering digunakan pelanggan, hingga sebaran skor ulasan (*review score*).
+Setelah seluruh data bersih, sembilan tabel terpisah seperti data pesanan, pelanggan, produk, pembayaran, hingga ulasan digabungkan (*merge*) menjadi satu *dataframe* utama. Dataset terpadu ini kemudian dianalisis melalui tahapan *Exploratory Data Analysis* (EDA) untuk menggali berbagai pola bisnis, mulai dari tren volume dan nilai penjualan dari waktu ke waktu, preferensi metode pembayaran serta opsi cicilan yang sering digunakan pelanggan, hingga sebaran skor ulasan (*review score*).
 
 Kesimpulan akhir dari proyek ini menghasilkan struktur dataset yang matang dan kaya konteks bisnis. Hasil analisis tidak hanya memberikan gambaran menyeluruh mengenai kinerja penjualan dan karakteristik transaksi pelanggan, tetapi juga siap digunakan sebagai fondasi utama untuk pengembangan *dashboard* interaktif berbasis Streamlit guna pemantauan bisnis secara *real-time*.
 
@@ -98,6 +98,12 @@ Kesimpulan akhir dari proyek ini menghasilkan struktur dataset yang matang dan k
 ## Education
 
 * **Langlangbuana University:** informatics engineering, 2023 – Current
+
+---
+
+## Experience 
+
+* **Junior Python Data Science:** PT.VINIX SEVEN AURUM, Feb2026-Jun2026
 
 ---
 
